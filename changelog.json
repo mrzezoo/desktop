@@ -1,5 +1,6 @@
 {
   "releases": {
+    "3.4.9-test1": ["[New] Test Gatewatcher support!"],
     "3.4.7": [
       "[Improved] Support entering GitHub.com as a GitHub Enterprise endpoint - #19342"
     ],
